@@ -1,4 +1,4 @@
-"""font2schematic — CustomTkinter GUI"""
+"""font2schematic — CustomTkinter GUI""" 
 
 from __future__ import annotations
 
